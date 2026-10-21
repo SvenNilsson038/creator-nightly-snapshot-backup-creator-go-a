@@ -1,0 +1,12 @@
+{
+  "creator_id": "maker-42",
+  "digital_assets": [
+    {"id": "asset-1", "delivery_key": "downloads/course.zip", "media_type": "application/zip"}
+  ],
+  "subscriber_updates": [
+    {"subscriber_id": "sub-7", "state": "active", "changed_at": "2026-09-25T23:58:00Z"}
+  ],
+  "content_processing": [
+    {"id": "job-3", "kind": "transcode", "status": "complete"}
+  ]
+}
